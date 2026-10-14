@@ -1,0 +1,11 @@
+PORTOFOLI - VERSION I RIPARUAR
+
+1. Hape ZIP-in dhe nxirr te gjitha file-t.
+2. Ne GitHub, ruaj file-t ekzistuese ne root (portrait.jpg, insights-overview.jpg, insights-audience.jpg, post-112k.jpg, post-72k.jpg, post-5528.jpg, Alesja-Deliu-CV.pdf).
+3. Ngarko index.html, style.css, script.js, folderin images dhe folderin videos; ruaj strukturen e folderave.
+4. Commit changes, prit GitHub Pages, dhe bej refresh.
+
+Te gjitha 13 videot jane MP4 reale dhe luhen brenda faqes.
+Fotot e para te portofolit nuk jane ne ZIP sepse jane te hostuara ne repository GitHub origjinal dhe lidhjet e tyre jane ruajtur. Pjesa e pare eshte rikthyer sipas HTML-se origjinale.
+
+Versioni ky eshte per repository-ne ekzistuese https://github.com/deliualesja/AlesjaDeliu-portfolio dhe nuk duhet te perdoret si projekt i pavarur offline per fotot e para.
